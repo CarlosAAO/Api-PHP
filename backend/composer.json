@@ -1,0 +1,17 @@
+{
+    "name": "juhiz/backend",
+    "autoload": {
+        "psr-4": {
+            "Juhiz\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos Almeida",
+            "email": "caralmort@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
